@@ -4,10 +4,11 @@ This is a project requested by Junk Doctors, it is a web application for fetchin
 
 Prerequisites
 
-PHP 5.4 or greater with the command-line interface (CLI) and JSON extension installed
-The Composer dependency management tool
-Nodejs
-A Google Cloud Platform project with the API enabled. To create a project and enable an API, refer to https://developers.google.com/workspace/guides/create-project and enable the API.
+* PHP 5.4 or greater with the command-line interface (CLI) and JSON extension installed
+* The Composer dependency management tool
+* Nodejs
+* A Google Cloud Platform project with the API enabled. To create a project and enable an API, refer to https://developers.google.com/workspace/guides/create-project and enable the API.
+
 Instructions
 
 1. First thing you need to do, is to go and create an OAuth Client ID for your project, and set the type to be "Desktop".
